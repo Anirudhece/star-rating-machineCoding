@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+.middle {
+  display: flex;
+  justify-content: center;
+}
+.starList {
+  list-style: none;
+  font-size: 80px;
+}
+.hover {
+  color: rgb(240, 224, 6);
+}
+.click {
+  color: rgb(240, 224, 6);
+}
+
